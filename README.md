@@ -7,9 +7,9 @@
   <em>Independent Web Developer • Pythonista • Flask Enthusiast • Front-End Explorer</em>
 </p>
 
-<!-- ANIMATED DIVIDER -->
+<!-- GRADIENT DIVIDER -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284869-bf24b9cc-7e9f-4e5f-9019-6eeb5b7d8d46.gif" width="600" alt="divider animation"/>
+  <img src="https://github.com/abdelrahmanw372-cpu/readme-assets/blob/main/gradient-divider.gif?raw=true" width="600" alt="divider animation"/>
 </p>
 
 ---
@@ -27,25 +27,35 @@
 
 ---
 
-<!-- TECH STACK -->
-<h2 align="center">🧰 Tech Stack</h2>
+### 💻 Tech Skills  
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,html,css,javascript" height="60" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-widgetbox.vercel.app/api/skills?frameworks=flask&languages=python,javascript,html,css&includeNames=true&theme=darkmode" alt="skills animation" />
-</p>
+<table>
+<tr>
+<td align="center" width="120">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/><br>Python
+</td>
+<td align="center" width="120">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45"/><br>Flask
+</td>
+<td align="center" width="120">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/><br>HTML
+</td>
+<td align="center" width="120">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/><br>CSS
+</td>
+<td align="center" width="120">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/><br>JavaScript
+</td>
+</tr>
+</table>
 
-<!-- ANIMATED LINE -->
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" width="700" alt="GitHub Snake Animation"/>
-</p>
+</div>
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Analytics  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abdelrahmanw372-cpu&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFAA&icon_color=00FFAA" height="160" />
@@ -81,12 +91,7 @@
 
 ---
 
-<!-- ANIMATED FOOTER -->
+<!-- WAVE FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=00FFAA&text=Keep+Building,+Keep+Learning+💻&fontColor=ffffff&fontSize=22&animation=twinkling&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=00FFAA&text=Thank+you+for+visiting+💙&fontAlign=50&fontAlignY=40&fontSize=24&fontColor=7FFFD4&section=footer" alt="wave footer"/>
 </p>
-
-<p align="center">
-  <img src="https://github.com/denvercoder1/readme-typing-svg/blob/main/demo.gif?raw=true" width="250" alt="Animated Spark"/>
-</p>
-
