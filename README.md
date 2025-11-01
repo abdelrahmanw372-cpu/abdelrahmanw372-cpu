@@ -1,97 +1,62 @@
-<!-- HEADER -->
+<!-- 💫 Animated Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Hey+there+👋;Welcome+to+My+Developer+Universe;Independent+Web+Developer+💻;Building+Scalable+%26+Beautiful+Web+Apps+⚡" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=1000&pause=3000&color=00E1FF&center=true&vCenter=true&width=900&lines=Hey+there+👋;Welcome+to+my+Dev+Universe;Independent+Web+Developer+💻;Building+Scalable+%26+Beautiful+Web+Applications+⚡;Clean+Code+%7C+Fast+Results+%7C+Constant+Learning" alt="Typing Animation" />
 </h1>
 
-<p align="center">
-  <em>Independent Web Developer • Pythonista • Flask Enthusiast • Front-End Explorer</em>
-</p>
+---
 
-<!-- GRADIENT DIVIDER -->
+<!-- 💻 About Me Section -->
+<h3 align="center">🚀 Independent Web Developer | Passionate About Building Elegant, Scalable Web Applications</h3>
+
 <p align="center">
-  <img src="https://github.com/abdelrahmanw372-cpu/readme-assets/blob/main/gradient-divider.gif?raw=true" width="600" alt="divider animation"/>
+  🌟 Focused on creating <b>clean, maintainable code</b> that delivers <b>real-world impact</b><br/>
+  💡 Always learning, always improving, and always chasing perfection<br/>
+  🧠 Love turning ideas into reality through <b>modern web technologies</b>
 </p>
 
 ---
 
-### 🧭 About Me  
-💡 I’m an **independent web developer** focused on creating elegant, scalable, and high-performance web applications.  
-🎯 My approach combines **logic + creativity**, ensuring every project is both functional and beautiful.  
-🔥 I write code that’s clean, efficient, and human-readable — because clarity is power.
+<!-- 🧰 Tech Stack -->
+<h2 align="center">🧰 Tech Toolbox</h2>
 
-- 🔧 **Currently working on:** [Programming Courses](https://github.com/abdelrahmanw372-cpu/programming-courses)
-- 🧠 **Currently learning:** Flask performance, JS best practices & front-end optimization
-- 🤝 **Looking to collaborate on:** Web apps & Flask projects
-- 💬 **Ask me about:** Python, Flask, HTML, CSS, JavaScript
-- ⚡ **Fun fact:** I believe a good dev writes code that even tired future-you can understand 😅
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,flask,html,css,js,bootstrap,git,github,vscode&perline=6" />
+</p>
 
 ---
 
-### 💻 Tech Skills  
+<!-- 📊 Stats Section -->
+<h2 align="center">📊 GitHub Stats & Contributions</h2>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdelrahmanw372-cpu&show_icons=true&theme=react&hide_border=true&include_all_commits=true" height="165em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrahmanw372-cpu&theme=react&hide_border=true" height="165em" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdelrahmanw372-cpu&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+---
+
+<!-- 🌐 Connect With Me -->
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdelrahman-waleed-78030a397/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/Abdelrahmanw999" target="_blank">
+    <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+  <a href="https://github.com/abdelrahmanw372-cpu/programming-courses" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub_Projects-171515?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<!-- 🌊 Gradient Wave Footer -->
 <div align="center">
-
-<table>
-<tr>
-<td align="center" width="120">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/><br>Python
-</td>
-<td align="center" width="120">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45"/><br>Flask
-</td>
-<td align="center" width="120">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/><br>HTML
-</td>
-<td align="center" width="120">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/><br>CSS
-</td>
-<td align="center" width="120">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/><br>JavaScript
-</td>
-</tr>
-</table>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2E8B57,50:20B2AA,100:00CED1&section=footer&text=Thank%20you%20for%20visiting%20💚&fontSize=24&fontColor=7FFFD4" width="100%"/>
 </div>
-
----
-
-### 📊 GitHub Analytics  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdelrahmanw372-cpu&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFAA&icon_color=00FFAA" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrahmanw372-cpu&theme=radical&hide_border=true&background=0D1117&stroke=00FFAA&ring=00FFAA&fire=00FFAA&currStreakLabel=00FFAA" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrahmanw372-cpu&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFAA" height="160" />
-</p>
-
----
-
-### 🧠 Philosophy  
-> “I don’t just write code — I build ideas that come to life.”  
-> “Code is logic with creativity — structure that breathes.”  
-
----
-
-### 🎯 Future Goals  
-- 🚀 Master advanced Flask architecture  
-- 💡 Build a full SaaS application from scratch  
-- 🧩 Learn React for powerful front-ends  
-- ☁️ Explore Docker & Cloud CI/CD pipelines  
-
----
-
-### 🌐 Connect With Me  
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/abdelrahman-waleed-78030a397/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/Abdelrahmanw999"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-</p>
-
----
-
-<!-- WAVE FOOTER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=00FFAA&text=Thank+you+for+visiting+💙&fontAlign=50&fontAlignY=40&fontSize=24&fontColor=7FFFD4&section=footer" alt="wave footer"/>
-</p>
